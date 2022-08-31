@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Les Stats GitHub de maxencetasse](https://github-readme-stats.vercel.app/api?username=maxencetasse)](https://github.com/maxencetasse/github-readme-stats)
+[![maxencetasse's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxencetasse)](https://github.com/maxencetasse/github-readme-stats)
 
 <!--
 **maxencetasse/maxencetasse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
