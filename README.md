@@ -2,7 +2,17 @@
 
 My name is Maxence Tasse and I want to make a better world with IT technologies.
 
-I'm currently working on Filecut, this web application is design for peoples who are not comfortable with complicated document formats.
+- 🔭 I'm currently working on : 
+  - xml-manager this web application is design to help peoples to manage xml-documents and data into it.
+  - filecut-web, this web application is design for peoples who are not comfortable with complicated document formats.
+
+- 🌱 I’m currently learning :
+  - React 18
+  - Symfony 6
+
+- 😄 Pronouns:
+  - He
+  - Him
 
 [![maxencetasse's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxencetasse)]([https://github.com/maxencetasse/github-readme-stats](https://github-readme-stats.vercel.app/api?username=maxencetasse))
 
