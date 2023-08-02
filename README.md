@@ -9,6 +9,7 @@ My name is Maxence Tasse and I want to make a better world with IT technologies.
 - 🌱 I’m currently learning :
   - React 18
   - Symfony 6
+  - Twig 3
 
 - 😄 Pronouns:
   - He
