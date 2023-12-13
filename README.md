@@ -17,6 +17,8 @@ My name is Maxence Tasse and I want to make a better world with IT technologies.
 
 [![maxencetasse's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxencetasse)]([https://github.com/maxencetasse/github-readme-stats](https://github-readme-stats.vercel.app/api?username=maxencetasse))
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxencetasse)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **maxencetasse/maxencetasse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
