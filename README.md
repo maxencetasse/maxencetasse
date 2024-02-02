@@ -5,6 +5,7 @@ My name is Maxence Tasse and I want to make a better world with IT technologies.
 - 🔭 I'm currently working on : 
   - xml-manager this web application is design to help peoples to manage xml-documents and data into it.
   - filecut-web, this web application is design for peoples who are not comfortable with complicated document formats.
+  - symfony-template, this template can be used as a starter project for Symfony users with all dependencies inside.
 
 - 🌱 I’m currently learning :
   - React 18
